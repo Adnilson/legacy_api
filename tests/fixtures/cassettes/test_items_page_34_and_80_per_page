@@ -1,0 +1,100 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.25.1
+    method: GET
+    uri: https://sf-legacy-api.now.sh/items?page=34
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      access-control-allow-headers:
+      - X-Requested-With, Content-Type, Accept
+      access-control-allow-methods:
+      - GET, OPTIONS
+      access-control-allow-origin:
+      - '*'
+      age:
+      - '0'
+      cache-control:
+      - public, max-age=0, must-revalidate
+      date:
+      - Tue, 09 Feb 2021 21:40:58 GMT
+      etag:
+      - W/"204e-NufmE+ETqdpeeTjvix21WRjNpEc"
+      server:
+      - Vercel
+      strict-transport-security:
+      - max-age=63072000; includeSubDomains; preload
+      x-vercel-cache:
+      - MISS
+      x-vercel-id:
+      - cdg1::sfo1::qqsmx-1612906858370-40f32b4928dd
+    status:
+      code: 200
+      message: OK
+version: 1
